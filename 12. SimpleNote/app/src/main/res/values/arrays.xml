@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="note_types">
+        <item>일반</item>
+        <item>아이디어</item>
+        <item>개인</item>
+        <item>약속</item>
+    </string-array>
+</resources>
+
+
